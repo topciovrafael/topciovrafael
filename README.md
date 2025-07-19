@@ -1,23 +1,14 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=topciovrafael" alt="Profile views" />
-</p>
-
-<p align="center">
   <h1>👋 Hi, I’m Topciov Rafael</h1>
   <p>Passionate Junior Web Developer</p>
   <p>📍 Timisoara, Romania</p>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-topciov/">LinkedIn</a> •
-  <a href="mailto:topciov.rafael@yahoo.com">Email Me</a>
+  <p>
+    <a href="https://www.linkedin.com/in/rafael-topciov/">LinkedIn</a> •
+    <a href="mailto:topciov.rafael@yahoo.com">Email Me</a>
+  </p>
 </p>
 
 ---
-
-<p align="center">
-  <img alt="Rafael's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=topciovrafael&show_icons=true&theme=default&count_private=true" />
-</p>
 
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=topciovrafael&theme=default" />
@@ -27,7 +18,7 @@
 
 <p align="center">
   <h2>🎓 Education</h2>
-  <p>Universitatea Politehnica Timisoara (2022 – 2026)</p>
+  <p>Universitatea Politehnica Timisoara, Automatica si Calculatoare (2022 – 2026)</p>
 </p>
 
 <p align="center">
@@ -40,15 +31,22 @@
 <p align="center">
   <h2>🛠️ Skills & Technologies</h2>
   <p>
-    <code>HTML</code> •
-    <code>CSS</code> •
-    <code>Tailwind CSS</code> •
-    <code>React</code> •
-    <code>TypeScript</code> •
-    <code>Firebase</code> •
-    <code>SASS</code> •
-    <code>Node.js</code> •
-    <code>Git</code> •
-    <code>GSAP</code>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-plain.svg" alt="GSAP" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </p>
 </p>
