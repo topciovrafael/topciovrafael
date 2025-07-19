@@ -23,7 +23,7 @@
 
 <p align="center">
   <h2>💼 Experience</h2>
-  <p>Web Developer at GAIM Solutions (Mar 2025 – Present)</p>
+  <p>Web Developer at GAIM SOLUTIONS (Mar 2025 – Present)</p>
 </p>
 
 ---
