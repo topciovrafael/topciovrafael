@@ -23,7 +23,8 @@
 
 <p align="center">
   <h2>💼 Experience</h2>
-  <p>Web Developer at GAIM SOLUTIONS (Mar 2025 – Present)</p>
+  <p>Web Developer Intern at Atwww (Aug 2025 – Present)</p>
+  <p>Web Developer Intern at GAIM SOLUTIONS (Mar 2025 – Aug 2025)</p>
 </p>
 
 ---
