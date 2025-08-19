@@ -47,7 +47,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
     <img src="https://cdn.simpleicons.org/greensock/8AC640" alt="GSAP" width="40" height="40"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/framer-motion.png" alt="Framer Motion" width="40" height="40" />
+    <img src="https://www.svgrepo.com/download/363629/framer-logo-duotone.svg" alt="Framer Motion" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>  
