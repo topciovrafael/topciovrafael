@@ -46,7 +46,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
-    <img src="https://cdn.simpleicons.org/greensock/8AC640" alt="GSAP" width="40" height="40"/>  
+    <img src="https://cdn.simpleicons.org/greensock/8AC640" alt="GSAP" width="40" height="40"/>
+    <img src="https://tabler.io/icons/brand-framer-motion.svg" alt="Framer Motion" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>  
@@ -55,5 +56,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>  
     <img src="https://cdn.simpleicons.org/sanity/FF2D20" alt="Sanity.io" width="40" height="40"/>
+    
   </div>
 </div>
