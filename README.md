@@ -1,6 +1,6 @@
 <p align="center">
   <h1>👋 Hi, I’m Topciov Rafael!</h1>
-  <p>Passionate Junior Web Developer</p>
+  <p>Passionate Junior Software Engineer</p>
   <p>📍 Timișoara, Romania</p>
   <p>
     <a href="https://www.linkedin.com/in/rafael-topciov/">LinkedIn</a> •
@@ -23,7 +23,7 @@
 
 <p align="center">
   <h2>💼 Experience</h2>
-  <p>Web Developer Intern at Atwww (Aug 2025 – Present)</p>
+  <p>Web Software Engineer at Atwww (Aug 2025 – Present)</p>
   <p>Web Developer Intern at GAIM SOLUTIONS (Mar 2025 – Aug 2025)</p>
 </p>
 
