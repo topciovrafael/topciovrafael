@@ -27,7 +27,7 @@
   <p>Web Developer Intern at GAIM SOLUTIONS (Mar 2025 – Aug 2025)</p>
 </p>
 
----
+
 <!--
 <p align="center">
   <h2>🛠️ Skills</h2>
