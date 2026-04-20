@@ -28,7 +28,7 @@
 </p>
 
 ---
-
+<!--
 <p align="center">
   <h2>🛠️ Skills</h2>
 </p>
@@ -59,3 +59,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
   </div>
 </div>
+-->
